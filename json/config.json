@@ -1,0 +1,10 @@
+{
+    "MSSQL": {
+        "Host": "127.0.0.1",
+        "Port": 8888,
+        "Database": "Test",
+        "User": "tester",
+        "Password": "1234",
+        "ConnectOption": "encrypt=true;"
+    }
+}
