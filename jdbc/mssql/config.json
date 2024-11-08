@@ -1,0 +1,10 @@
+{
+    "MSSQL": {
+        "Host": "127.0.0.1",
+        "Port": 1433,
+        "Database": "DEMO",
+        "User": "admin",
+        "Password": "1234",
+        "ConnectOption": "encrypt=true;trustServerCertificate=true"
+    }
+}
